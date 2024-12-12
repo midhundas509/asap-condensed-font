@@ -1,0 +1,266 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "09087C306E59D50F1E7FF8E5F374B560978E8282EDBDBB00D16D1CF530308BD6",
+      "size": 17209
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "465E7B320730113FA3325965E7FEFC427BAF74282457D8281B1048E3BABD10F9",
+      "size": 1008
+    },
+    "custom.ftd": {
+      "name": "custom.ftd",
+      "checksum": "F8FA1AA8F15C23DA329C6FB450CAAF4663F2B206C031F5479FD11B00CCF9CE39",
+      "size": 6897
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "E3C994A109E45E10E5C0C1D9E4DFB2307056A702328788C183CD1C0E237F8DCD",
+      "size": 2280
+    },
+    "static/Asap-Condensed-200-italic-latin-ext.woff2": {
+      "name": "static/Asap-Condensed-200-italic-latin-ext.woff2",
+      "checksum": "BE14E91CBF8D2D39C8091C08D2AEBE7612A03EB938DAAA03E766F274A760D398",
+      "size": 21016
+    },
+    "static/Asap-Condensed-200-italic-latin.woff2": {
+      "name": "static/Asap-Condensed-200-italic-latin.woff2",
+      "checksum": "A2A9D041322D608544CE4B4626E1C0FFEBF5B65FCD54E96A7698562043C527D9",
+      "size": 22180
+    },
+    "static/Asap-Condensed-200-italic-vietnamese.woff2": {
+      "name": "static/Asap-Condensed-200-italic-vietnamese.woff2",
+      "checksum": "C83D8915A1AE3DD79A6C58376F7658FBE569C827157CEA856F711CF575AAB582",
+      "size": 8140
+    },
+    "static/Asap-Condensed-200-normal-latin-ext.woff2": {
+      "name": "static/Asap-Condensed-200-normal-latin-ext.woff2",
+      "checksum": "5EBB609141EF12CD84B5D407A5C14A9D07124ED45E9C80679858DF6C056EB2EE",
+      "size": 19172
+    },
+    "static/Asap-Condensed-200-normal-latin.woff2": {
+      "name": "static/Asap-Condensed-200-normal-latin.woff2",
+      "checksum": "8EF5232C62E4BB306A8E84C5ACFFCCFA49C82DD789924968216A6FC4F603046F",
+      "size": 20508
+    },
+    "static/Asap-Condensed-200-normal-vietnamese.woff2": {
+      "name": "static/Asap-Condensed-200-normal-vietnamese.woff2",
+      "checksum": "39E0AA9AF14894EC77FDB44C0DA67BFA210B6F3A195F66CCC6670307F495D8DA",
+      "size": 7280
+    },
+    "static/Asap-Condensed-300-italic-latin-ext.woff2": {
+      "name": "static/Asap-Condensed-300-italic-latin-ext.woff2",
+      "checksum": "9EAD68AFA9502039A2FBEED0A22191686CA023B9B6C7E68E5F39BDCD8BBF2B8D",
+      "size": 21196
+    },
+    "static/Asap-Condensed-300-italic-latin.woff2": {
+      "name": "static/Asap-Condensed-300-italic-latin.woff2",
+      "checksum": "EC0255C1251A54E84C0048B8956481C0CAEFCB6F2B78F91C58C87E345A2E8C4D",
+      "size": 22352
+    },
+    "static/Asap-Condensed-300-italic-vietnamese.woff2": {
+      "name": "static/Asap-Condensed-300-italic-vietnamese.woff2",
+      "checksum": "5128D6B7E6F6A2B8CDD71874780E7A3AB9BFA97CC0F78868A15B5AB7DB59A3F5",
+      "size": 8220
+    },
+    "static/Asap-Condensed-300-normal-latin-ext.woff2": {
+      "name": "static/Asap-Condensed-300-normal-latin-ext.woff2",
+      "checksum": "68DBD05DC119A773A5323319DD2807E686D57B237B1993C97812208CE41ABC9A",
+      "size": 19436
+    },
+    "static/Asap-Condensed-300-normal-latin.woff2": {
+      "name": "static/Asap-Condensed-300-normal-latin.woff2",
+      "checksum": "CDDF0083A6E663F18AF83315FA7E5FC22BD03754000749E1A9E6BD1249C33D7E",
+      "size": 20748
+    },
+    "static/Asap-Condensed-300-normal-vietnamese.woff2": {
+      "name": "static/Asap-Condensed-300-normal-vietnamese.woff2",
+      "checksum": "30A328A2C38830F0F6874DBE0D87B76FC1B94C4EF71972485F29E81E4F12A530",
+      "size": 7252
+    },
+    "static/Asap-Condensed-400-italic-latin-ext.woff2": {
+      "name": "static/Asap-Condensed-400-italic-latin-ext.woff2",
+      "checksum": "1B2463B67EC7634F95017DFAEC74FF527C1233A5E2543F6CFB184C6622537BEC",
+      "size": 21312
+    },
+    "static/Asap-Condensed-400-italic-latin.woff2": {
+      "name": "static/Asap-Condensed-400-italic-latin.woff2",
+      "checksum": "3FABEB4060746EDD41F6A1BF0EBD4DB255F9BF89A429AC16EC4B91C676ECA1FA",
+      "size": 22704
+    },
+    "static/Asap-Condensed-400-italic-vietnamese.woff2": {
+      "name": "static/Asap-Condensed-400-italic-vietnamese.woff2",
+      "checksum": "8B4FD79E289714B073F6449EB8D853975CC65698D83BE436AC6E80AA07D03D56",
+      "size": 8180
+    },
+    "static/Asap-Condensed-400-normal-latin-ext.woff2": {
+      "name": "static/Asap-Condensed-400-normal-latin-ext.woff2",
+      "checksum": "5ABF6603BB2346E12C78C95F8C55DFE4B114FC0956F6C9585CB22D7028B3EF38",
+      "size": 19612
+    },
+    "static/Asap-Condensed-400-normal-latin.woff2": {
+      "name": "static/Asap-Condensed-400-normal-latin.woff2",
+      "checksum": "890B859D781AD23DF05AC7DB9476BF036729ECFF37F7D74D6F6ECE783FEA032A",
+      "size": 21168
+    },
+    "static/Asap-Condensed-400-normal-vietnamese.woff2": {
+      "name": "static/Asap-Condensed-400-normal-vietnamese.woff2",
+      "checksum": "3A340EF5F45D7F9D91355A8CCADF0A3D69D258DA807E31E49AD9017865675870",
+      "size": 7324
+    },
+    "static/Asap-Condensed-500-italic-latin-ext.woff2": {
+      "name": "static/Asap-Condensed-500-italic-latin-ext.woff2",
+      "checksum": "53081921D260EBA6ED451972B720812079B3FF4FD86B32D0E315A784D257B517",
+      "size": 21908
+    },
+    "static/Asap-Condensed-500-italic-latin.woff2": {
+      "name": "static/Asap-Condensed-500-italic-latin.woff2",
+      "checksum": "9E985FD1DE80F532F99CF70C8F11E2A2DA522521D281D7A25157107DB2A7A8D0",
+      "size": 23224
+    },
+    "static/Asap-Condensed-500-italic-vietnamese.woff2": {
+      "name": "static/Asap-Condensed-500-italic-vietnamese.woff2",
+      "checksum": "F364BD51722A81A9ED410661651890BA9031912D674BBC85741F700E69F2AA3F",
+      "size": 8260
+    },
+    "static/Asap-Condensed-500-normal-latin-ext.woff2": {
+      "name": "static/Asap-Condensed-500-normal-latin-ext.woff2",
+      "checksum": "0D870F7331FA653E2095633A56B842002B9871E8E18648EC3C85893490B7FD88",
+      "size": 19996
+    },
+    "static/Asap-Condensed-500-normal-latin.woff2": {
+      "name": "static/Asap-Condensed-500-normal-latin.woff2",
+      "checksum": "313FD9D24CB57F0CE7025317EAC48D7C8EEF5D10F51946BE7871222D8B31B5B1",
+      "size": 21304
+    },
+    "static/Asap-Condensed-500-normal-vietnamese.woff2": {
+      "name": "static/Asap-Condensed-500-normal-vietnamese.woff2",
+      "checksum": "EEF9AD1C00E0CF5087C75129127641B50EB2B6B4D5CAFBE0601362C72E4778FA",
+      "size": 7328
+    },
+    "static/Asap-Condensed-600-italic-latin-ext.woff2": {
+      "name": "static/Asap-Condensed-600-italic-latin-ext.woff2",
+      "checksum": "5A90B86F8508566198409C584D689B75BB5CC7757E9AEF8AC4E448C59F8540DE",
+      "size": 22132
+    },
+    "static/Asap-Condensed-600-italic-latin.woff2": {
+      "name": "static/Asap-Condensed-600-italic-latin.woff2",
+      "checksum": "C0481D08C5BA16B5F06C99DCB90BA081B01CA279C37690FC48AEF791E4163546",
+      "size": 23280
+    },
+    "static/Asap-Condensed-600-italic-vietnamese.woff2": {
+      "name": "static/Asap-Condensed-600-italic-vietnamese.woff2",
+      "checksum": "140252E6662EDB6DE241FD4645993CF25D82C9036DD73311B15CDA27426D4FBB",
+      "size": 8348
+    },
+    "static/Asap-Condensed-600-normal-latin-ext.woff2": {
+      "name": "static/Asap-Condensed-600-normal-latin-ext.woff2",
+      "checksum": "5B59FA1846370809FEDFFAA3BFB56CB571795AAAB7E8B5BB1BB204F74B505114",
+      "size": 19984
+    },
+    "static/Asap-Condensed-600-normal-latin.woff2": {
+      "name": "static/Asap-Condensed-600-normal-latin.woff2",
+      "checksum": "1888A321F988409B6F4BC54B3149A6648E9B954954FD34CB7E2ACA299050C2D5",
+      "size": 21244
+    },
+    "static/Asap-Condensed-600-normal-vietnamese.woff2": {
+      "name": "static/Asap-Condensed-600-normal-vietnamese.woff2",
+      "checksum": "5D7A279612A0149A0AB08FC507FDDDD65C155ABE4DDCE8B6201A5E4CA5FC1CAF",
+      "size": 7396
+    },
+    "static/Asap-Condensed-700-italic-latin-ext.woff2": {
+      "name": "static/Asap-Condensed-700-italic-latin-ext.woff2",
+      "checksum": "5576C47B31324879D25DD3758FABB8AC9AE0A5BB5046D77373B3C4F116CD1F98",
+      "size": 21660
+    },
+    "static/Asap-Condensed-700-italic-latin.woff2": {
+      "name": "static/Asap-Condensed-700-italic-latin.woff2",
+      "checksum": "5AB84BC7845E2D63549F8F7F60A943812FDB35A1175A01A9B969AC721BEE2FC1",
+      "size": 23232
+    },
+    "static/Asap-Condensed-700-italic-vietnamese.woff2": {
+      "name": "static/Asap-Condensed-700-italic-vietnamese.woff2",
+      "checksum": "B901B166FA437AB6B0E65AA17CD3241F6FF6B0399369685CA219A4C49D900328",
+      "size": 8368
+    },
+    "static/Asap-Condensed-700-normal-latin-ext.woff2": {
+      "name": "static/Asap-Condensed-700-normal-latin-ext.woff2",
+      "checksum": "61EB8DC04FC8B976E3FC64261F13B41917632894DCA5B2C1681DB48770F01202",
+      "size": 19816
+    },
+    "static/Asap-Condensed-700-normal-latin.woff2": {
+      "name": "static/Asap-Condensed-700-normal-latin.woff2",
+      "checksum": "A932CBED3F646EE751177AAB37D4CF7B860A4768C20AA66E672F346BA4131A83",
+      "size": 21280
+    },
+    "static/Asap-Condensed-700-normal-vietnamese.woff2": {
+      "name": "static/Asap-Condensed-700-normal-vietnamese.woff2",
+      "checksum": "B85C99BAEBFF6BD54F8F729C86F20F7D5577C3DE10AB9E63E4A6C22127AAA18D",
+      "size": 7544
+    },
+    "static/Asap-Condensed-800-italic-latin-ext.woff2": {
+      "name": "static/Asap-Condensed-800-italic-latin-ext.woff2",
+      "checksum": "50F22DAA168B6EBE01CCA9E317F4CBE7A816920F9D49A13ADFA35C944AA34393",
+      "size": 22328
+    },
+    "static/Asap-Condensed-800-italic-latin.woff2": {
+      "name": "static/Asap-Condensed-800-italic-latin.woff2",
+      "checksum": "74B857FFA57E36376FF8E959BB53B950F6E2D155BAAC9D2C321A85686BA420D2",
+      "size": 23364
+    },
+    "static/Asap-Condensed-800-italic-vietnamese.woff2": {
+      "name": "static/Asap-Condensed-800-italic-vietnamese.woff2",
+      "checksum": "35BF5ED3AB80896F354D7D3219328BF0E7FF8DD1F560E7934688BA59D38D083B",
+      "size": 8344
+    },
+    "static/Asap-Condensed-800-normal-latin-ext.woff2": {
+      "name": "static/Asap-Condensed-800-normal-latin-ext.woff2",
+      "checksum": "1A691626F633E2E3BFFC254497B12DC293A7692FA8D95EDA3514C038908DB630",
+      "size": 20468
+    },
+    "static/Asap-Condensed-800-normal-latin.woff2": {
+      "name": "static/Asap-Condensed-800-normal-latin.woff2",
+      "checksum": "C2871B7C9E370A81FEE0C4C8AA3547EA2A2115DCF8C01091B4B9C81E575335E4",
+      "size": 21692
+    },
+    "static/Asap-Condensed-800-normal-vietnamese.woff2": {
+      "name": "static/Asap-Condensed-800-normal-vietnamese.woff2",
+      "checksum": "2FFACC78755B005D0987957E4F22F245814102628BCCED3DA0B6A7ADC5A46B18",
+      "size": 7512
+    },
+    "static/Asap-Condensed-900-italic-latin-ext.woff2": {
+      "name": "static/Asap-Condensed-900-italic-latin-ext.woff2",
+      "checksum": "EC5DBA135509A8BA917A197617947547B587C7DFD3877D2205D285D09A8C9359",
+      "size": 21624
+    },
+    "static/Asap-Condensed-900-italic-latin.woff2": {
+      "name": "static/Asap-Condensed-900-italic-latin.woff2",
+      "checksum": "588021C49CD5F71E7980E5E1E53F0EBE0EF560DC23EA7D42D1E2D034EF83212A",
+      "size": 23128
+    },
+    "static/Asap-Condensed-900-italic-vietnamese.woff2": {
+      "name": "static/Asap-Condensed-900-italic-vietnamese.woff2",
+      "checksum": "81FAC702920D73F1C365C9C6AB6BA5891B78CC99488F50428542BCEAC0B20287",
+      "size": 8204
+    },
+    "static/Asap-Condensed-900-normal-latin-ext.woff2": {
+      "name": "static/Asap-Condensed-900-normal-latin-ext.woff2",
+      "checksum": "9A15863B78E4C1AF2AB731CAD86297C27DFFE26B554CAADEBE737E71DFA961EF",
+      "size": 20320
+    },
+    "static/Asap-Condensed-900-normal-latin.woff2": {
+      "name": "static/Asap-Condensed-900-normal-latin.woff2",
+      "checksum": "6E70E4321950D08D37F29A81A2E522F5DA3B38393331A30264BD2D355502F740",
+      "size": 21720
+    },
+    "static/Asap-Condensed-900-normal-vietnamese.woff2": {
+      "name": "static/Asap-Condensed-900-normal-vietnamese.woff2",
+      "checksum": "A8D6DDAA8101E79262CEBD1D27B0892AD312417EC6EDF3D975CC3F5AA36036AD",
+      "size": 7464
+    }
+  },
+  "zip_url": "https://codeload.github.com/midhundas509/asap-condensed-font/zip/refs/heads/main",
+  "checksum": "AF3530A0EEFCED1E903A64CCC6159B9DA4C48ADF9BAC906CCC6B89B218F770F5"
+}
